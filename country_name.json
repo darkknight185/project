@@ -1,0 +1,782 @@
+[
+    {
+        "country": "Afghanistan",
+        "clue": "Home to the ancient city of Herat and the Hindu Kush mountains."
+    },
+    {
+        "country": "Albania",
+        "clue": "Known for its stunning beaches along the Adriatic Sea."
+    },
+    {
+        "country": "Algeria",
+        "clue": "The largest country in Africa by land area."
+    },
+    {
+        "country": "Andorra",
+        "clue": "A tiny principality nestled in the Pyrenees mountains between France and Spain."
+    },
+    {
+        "country": "Angola",
+        "clue": "Famous for its rich oil reserves and beautiful landscapes."
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "clue": "An island nation known for its 365 beaches."
+    },
+    {
+        "country": "Argentina",
+        "clue": "Famous for tango and its vast Pampas grasslands."
+    },
+    {
+        "country": "Armenia",
+        "clue": "Known as one of the first countries to adopt Christianity as a state religion."
+    },
+    {
+        "country": "Australia",
+        "clue": "Home to unique wildlife such as kangaroos and koalas."
+    },
+    {
+        "country": "Austria",
+        "clue": "Renowned for its classical music heritage, especially Mozart and Beethoven."
+    },
+    {
+        "country": "Azerbaijan",
+        "clue": "Known for its capital, Baku, and the Flame Towers."
+    },
+    {
+        "country": "Bahamas",
+        "clue": "Comprises over 700 islands and is famous for its clear blue waters."
+    },
+    {
+        "country": "Bahrain",
+        "clue": "Known for its pearl diving history and as a financial hub."
+    },
+    {
+        "country": "Bangladesh",
+        "clue": "Famous for its rich cultural heritage and the Sundarbans mangrove forest."
+    },
+    {
+        "country": "Barbados",
+        "clue": "Known for its rum production and beautiful beaches."
+    },
+    {
+        "country": "Belarus",
+        "clue": "Home to the historic city of Minsk and numerous Soviet-era monuments."
+    },
+    {
+        "country": "Belgium",
+        "clue": "Renowned for its chocolate, waffles, and medieval towns."
+    },
+    {
+        "country": "Belize",
+        "clue": "Famous for the Great Blue Hole and its barrier reef."
+    },
+    {
+        "country": "Benin",
+        "clue": "Known for its voodoo culture and the historical Kingdom of Dahomey."
+    },
+    {
+        "country": "Bhutan",
+        "clue": "The only country that measures its success through Gross National Happiness."
+    },
+    {
+        "country": "Bolivia",
+        "clue": "Home to Salar de Uyuni, the world's largest salt flat."
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "clue": "Known for its historic Ottoman influence and beautiful landscapes."
+    },
+    {
+        "country": "Botswana",
+        "clue": "Famous for its wildlife and the Okavango Delta."
+    },
+    {
+        "country": "Brazil",
+        "clue": "Known for the Amazon rainforest and its vibrant Carnival festival."
+    },
+    {
+        "country": "Brunei",
+        "clue": "A small, wealthy nation on the island of Borneo, known for its mosques."
+    },
+    {
+        "country": "Bulgaria",
+        "clue": "Famous for its roses and the ancient Thracian tombs."
+    },
+    {
+        "country": "Burkina Faso",
+        "clue": "Known for its vibrant music and arts scene."
+    },
+    {
+        "country": "Burundi",
+        "clue": "Recognized for its beautiful lakes and mountainous terrain."
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "clue": "Known for its cocoa production and vibrant cultural heritage."
+    },
+    {
+        "country": "Cabo Verde",
+        "clue": "An archipelago known for its Creole Portuguese-African culture."
+    },
+    {
+        "country": "Cambodia",
+        "clue": "Home to the ancient temple complex of Angkor Wat."
+    },
+    {
+        "country": "Cameroon",
+        "clue": "Known as 'Africa in miniature' for its diverse geography."
+    },
+    {
+        "country": "Canada",
+        "clue": "Famous for its vast wilderness and multicultural cities."
+    },
+    {
+        "country": "Central African Republic",
+        "clue": "Known for its rich biodiversity and wildlife."
+    },
+    {
+        "country": "Chad",
+        "clue": "Home to Zakouma National Park, known for its elephants."
+    },
+    {
+        "country": "Chile",
+        "clue": "Renowned for its long coastline and the Andes mountains."
+    },
+    {
+        "country": "China",
+        "clue": "Known for the Great Wall and its rich history and culture."
+    },
+    {
+        "country": "Colombia",
+        "clue": "Famous for its coffee and vibrant cities like Cartagena."
+    },
+    {
+        "country": "Comoros",
+        "clue": "An archipelago known for its volcanic islands and rich marine life."
+    },
+    {
+        "country": "Congo (Congo-Brazzaville)",
+        "clue": "Known for its rainforests and the Congo River."
+    },
+    {
+        "country": "Costa Rica",
+        "clue": "Famous for its biodiversity and eco-tourism."
+    },
+    {
+        "country": "Croatia",
+        "clue": "Known for its stunning coastline along the Adriatic Sea and historic cities."
+    },
+    {
+        "country": "Cuba",
+        "clue": "Famous for its classic cars, cigars, and vibrant music scene."
+    },
+    {
+        "country": "Cyprus",
+        "clue": "An island nation known for its archaeological sites and beaches."
+    },
+    {
+        "country": "Czechia (Czech Republic)",
+        "clue": "Renowned for its beautiful architecture and Prague's historic center."
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "clue": "Known for its vast rainforests and rich mineral resources."
+    },
+    {
+        "country": "Denmark",
+        "clue": "Famous for its Viking history and the concept of 'hygge.'"
+    },
+    {
+        "country": "Djibouti",
+        "clue": "Known for its strategic location near the Bab-el-Mandeb strait."
+    },
+    {
+        "country": "Dominica",
+        "clue": "Known as the 'Nature Island' for its lush rainforests and natural hot springs."
+    },
+    {
+        "country": "Dominican Republic",
+        "clue": "Famous for its beautiful beaches and the historic city of Santo Domingo."
+    },
+    {
+        "country": "Ecuador",
+        "clue": "Known for the Galápagos Islands and its rich biodiversity."
+    },
+    {
+        "country": "Egypt",
+        "clue": "Renowned for its ancient pyramids and the Nile River."
+    },
+    {
+        "country": "El Salvador",
+        "clue": "Known for its surf beaches and volcanic landscapes."
+    },
+    {
+        "country": "Equatorial Guinea",
+        "clue": "A small country known for its oil reserves and unique biodiversity."
+    },
+    {
+        "country": "Eritrea",
+        "clue": "Known for its Italian colonial architecture and coastal cities."
+    },
+    {
+        "country": "Estonia",
+        "clue": "Famous for its medieval architecture and digital innovation."
+    },
+    {
+        "country": "Eswatini (fmr. 'Swaziland')",
+        "clue": "Known for its traditional culture and wildlife reserves."
+    },
+    {
+        "country": "Ethiopia",
+        "clue": "Famous for its ancient history, including the rock-hewn churches of Lalibela."
+    },
+    {
+        "country": "Fiji",
+        "clue": "Renowned for its tropical climate and beautiful coral reefs."
+    },
+    {
+        "country": "Finland",
+        "clue": "Known for its high quality of education and the Northern Lights."
+    },
+    {
+        "country": "France",
+        "clue": "Famous for its art, fashion, and landmarks like the Eiffel Tower."
+    },
+    {
+        "country": "Gabon",
+        "clue": "Known for its wildlife and national parks, including Loango National Park."
+    },
+    {
+        "country": "Gambia",
+        "clue": "Famous for its river and rich birdlife."
+    },
+    {
+        "country": "Georgia",
+        "clue": "Known for its diverse landscapes and ancient wine-making traditions."
+    },
+    {
+        "country": "Germany",
+        "clue": "Famous for its engineering, beer, and historic cities like Berlin."
+    },
+    {
+        "country": "Ghana",
+        "clue": "Known for its rich history and vibrant culture, including kente cloth."
+    },
+    {
+        "country": "Greece",
+        "clue": "Famous for its ancient ruins and beautiful islands."
+    },
+    {
+        "country": "Grenada",
+        "clue": "Known as the 'Spice Island' for its nutmeg production."
+    },
+    {
+        "country": "Guatemala",
+        "clue": "Home to ancient Mayan ruins and beautiful highlands."
+    },
+    {
+        "country": "Guinea",
+        "clue": "Known for its natural beauty and rich cultural heritage."
+    },
+    {
+        "country": "Guinea-Bissau",
+        "clue": "Famous for its national parks and diverse ecosystems."
+    },
+    {
+        "country": "Guyana",
+        "clue": "Known for its rainforests and the famous Kaieteur Falls."
+    },
+    {
+        "country": "Haiti",
+        "clue": "Famous for its revolutionary history and vibrant culture."
+    },
+    {
+        "country": "Holy See",
+        "clue": "The spiritual center for Catholics and home to St. Peter's Basilica."
+    },
+    {
+        "country": "Honduras",
+        "clue": "Known for its ancient Mayan ruins and beautiful Caribbean coast."
+    },
+    {
+        "country": "Hungary",
+        "clue": "Famous for its thermal baths and the Danube River."
+    },
+    {
+        "country": "Iceland",
+        "clue": "Known for its glaciers, geysers, and volcanic landscapes."
+    },
+    {
+        "country": "India",
+        "clue": "Famous for its diverse culture, cuisine, and the Taj Mahal."
+    },
+    {
+        "country": "Indonesia",
+        "clue": "An archipelago with thousands of islands and rich biodiversity."
+    },
+    {
+        "country": "Iran",
+        "clue": "Known for its ancient Persian culture and stunning architecture."
+    },
+    {
+        "country": "Iraq",
+        "clue": "Home to ancient civilizations like Babylon and Mesopotamia."
+    },
+    {
+        "country": "Ireland",
+        "clue": "Famous for its lush landscapes and rich literary heritage."
+    },
+    {
+        "country": "Israel",
+        "clue": "Known for its historical and religious significance."
+    },
+    {
+        "country": "Italy",
+        "clue": "Famous for its art, history, and delicious cuisine."
+    },
+    {
+        "country": "Jamaica",
+        "clue": "Known for its reggae music and beautiful beaches."
+    },
+    {
+        "country": "Japan",
+        "clue": "Famous for its unique blend of tradition and modern technology."
+    },
+    {
+        "country": "Jordan",
+        "clue": "Home to the ancient city of Petra and stunning desert landscapes."
+    },
+    {
+        "country": "Kazakhstan",
+        "clue": "The world's largest landlocked country, known for its steppes."
+    },
+    {
+        "country": "Kenya",
+        "clue": "Famous for its wildlife safaris and the Great Rift Valley."
+    },
+    {
+        "country": "Kiribati",
+        "clue": "An island nation known for its atolls and marine biodiversity."
+    },
+    {
+        "country": "Kuwait",
+        "clue": "Known for its oil reserves and modern architecture."
+    },
+    {
+        "country": "Kyrgyzstan",
+        "clue": "Famous for its stunning mountains and nomadic culture."
+    },
+    {
+        "country": "Laos",
+        "clue": "Known for its mountainous terrain and Buddhist culture."
+    },
+    {
+        "country": "Latvia",
+        "clue": "Famous for its Art Nouveau architecture and beautiful forests."
+    },
+    {
+        "country": "Lebanon",
+        "clue": "Known for its rich history and Mediterranean coastline."
+    },
+    {
+        "country": "Lesotho",
+        "clue": "A landlocked country known for its mountainous terrain."
+    },
+    {
+        "country": "Liberia",
+        "clue": "Known for its rich history and cultural diversity."
+    },
+    {
+        "country": "Libya",
+        "clue": "Famous for its ancient ruins and vast deserts."
+    },
+    {
+        "country": "Liechtenstein",
+        "clue": "A tiny principality known for its stunning Alpine scenery."
+    },
+    {
+        "country": "Lithuania",
+        "clue": "Known for its medieval history and beautiful architecture."
+    },
+    {
+        "country": "Luxembourg",
+        "clue": "A small, wealthy nation known for its banking sector."
+    },
+    {
+        "country": "Madagascar",
+        "clue": "Famous for its unique wildlife and biodiversity."
+    },
+    {
+        "country": "Malawi",
+        "clue": "Known for Lake Malawi and diverse wildlife."
+    },
+    {
+        "country": "Malaysia",
+        "clue": "Famous for its diverse cultures and the Petronas Towers."
+    },
+    {
+        "country": "Maldives",
+        "clue": "An island nation known for its stunning overwater bungalows."
+    },
+    {
+        "country": "Mali",
+        "clue": "Known for its rich history and the ancient city of Timbuktu."
+    },
+    {
+        "country": "Malta",
+        "clue": "Famous for its historic sites and Mediterranean culture."
+    },
+    {
+        "country": "Marshall Islands",
+        "clue": "Known for its coral atolls and rich marine biodiversity."
+    },
+    {
+        "country": "Mauritania",
+        "clue": "Famous for its vast deserts and rich history."
+    },
+    {
+        "country": "Mauritius",
+        "clue": "Known for its beaches and diverse ecosystems."
+    },
+    {
+        "country": "Mexico",
+        "clue": "Famous for its rich cultural heritage, including ancient Mayan ruins."
+    },
+    {
+        "country": "Micronesia",
+        "clue": "Comprising hundreds of islands, known for its coral reefs."
+    },
+    {
+        "country": "Moldova",
+        "clue": "Known for its wine production and beautiful countryside."
+    },
+    {
+        "country": "Monaco",
+        "clue": "A tiny city-state known for its luxury and casinos."
+    },
+    {
+        "country": "Mongolia",
+        "clue": "Famous for its nomadic culture and vast steppe landscapes."
+    },
+    {
+        "country": "Montenegro",
+        "clue": "Known for its stunning coastline and mountainous terrain."
+    },
+    {
+        "country": "Morocco",
+        "clue": "Famous for its vibrant souks and rich cultural heritage."
+    },
+    {
+        "country": "Mozambique",
+        "clue": "Known for its beautiful beaches and vibrant culture."
+    },
+    {
+        "country": "Myanmar (formerly Burma)",
+        "clue": "Home to the ancient city of Bagan and diverse cultures."
+    },
+    {
+        "country": "Namibia",
+        "clue": "Known for the Namib Desert and stunning wildlife."
+    },
+    {
+        "country": "Nauru",
+        "clue": "The third smallest country in the world, known for its phosphate mining."
+    },
+    {
+        "country": "Nepal",
+        "clue": "Home to Mount Everest and rich cultural heritage."
+    },
+    {
+        "country": "Netherlands",
+        "clue": "Famous for its windmills, tulips, and canals."
+    },
+    {
+        "country": "New Zealand",
+        "clue": "Known for its stunning landscapes and Maori culture."
+    },
+    {
+        "country": "Nicaragua",
+        "clue": "Famous for its lakes and volcanoes."
+    },
+    {
+        "country": "Niger",
+        "clue": "Known for the Sahara Desert and rich cultural traditions."
+    },
+    {
+        "country": "Nigeria",
+        "clue": "Africa's most populous country, known for its diverse cultures."
+    },
+    {
+        "country": "North Korea",
+        "clue": "Known for its unique political system and isolated nature."
+    },
+    {
+        "country": "North Macedonia",
+        "clue": "Known for its beautiful lakes and historic sites."
+    },
+    {
+        "country": "Norway",
+        "clue": "Famous for its fjords and stunning natural landscapes."
+    },
+    {
+        "country": "Oman",
+        "clue": "Known for its rich history and beautiful landscapes."
+    },
+    {
+        "country": "Pakistan",
+        "clue": "Home to the ancient Indus Valley Civilization and diverse cultures."
+    },
+    {
+        "country": "Palau",
+        "clue": "Known for its stunning coral reefs and marine biodiversity."
+    },
+    {
+        "country": "Palestine State",
+        "clue": "Rich in history and significant religious sites."
+    },
+    {
+        "country": "Panama",
+        "clue": "Famous for the Panama Canal and biodiversity."
+    },
+    {
+        "country": "Papua New Guinea",
+        "clue": "Known for its diverse cultures and languages."
+    },
+    {
+        "country": "Paraguay",
+        "clue": "Famous for its cultural heritage and natural landscapes."
+    },
+    {
+        "country": "Peru",
+        "clue": "Home to Machu Picchu and rich indigenous cultures."
+    },
+    {
+        "country": "Philippines",
+        "clue": "An archipelago known for its beautiful beaches and diverse cultures."
+    },
+    {
+        "country": "Poland",
+        "clue": "Famous for its rich history and vibrant cities like Krakow."
+    },
+    {
+        "country": "Portugal",
+        "clue": "Known for its rich maritime history and beautiful coastline."
+    },
+    {
+        "country": "Qatar",
+        "clue": "Known for its wealth and hosting the 2022 FIFA World Cup."
+    },
+    {
+        "country": "Romania",
+        "clue": "Famous for its castles and rich folklore."
+    },
+    {
+        "country": "Russia",
+        "clue": "The largest country in the world, known for its rich history and culture."
+    },
+    {
+        "country": "Rwanda",
+        "clue": "Known for its stunning landscapes and conservation efforts."
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "clue": "The smallest country in the Western Hemisphere."
+    },
+    {
+        "country": "Saint Lucia",
+        "clue": "Famous for its stunning beaches and the Pitons."
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "clue": "Known for its beautiful sailing and lush landscapes."
+    },
+    {
+        "country": "Samoa",
+        "clue": "Known for its stunning beaches and vibrant culture."
+    },
+    {
+        "country": "San Marino",
+        "clue": "One of the world's oldest republics, located within Italy."
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "clue": "An island nation known for its biodiversity and cocoa production."
+    },
+    {
+        "country": "Saudi Arabia",
+        "clue": "Home to Mecca, the holiest city in Islam."
+    },
+    {
+        "country": "Senegal",
+        "clue": "Famous for its vibrant music and rich cultural heritage."
+    },
+    {
+        "country": "Serbia",
+        "clue": "Known for its historic cities and vibrant culture."
+    },
+    {
+        "country": "Seychelles",
+        "clue": "An archipelago known for its stunning beaches and biodiversity."
+    },
+    {
+        "country": "Sierra Leone",
+        "clue": "Famous for its beautiful beaches and vibrant culture."
+    },
+    {
+        "country": "Singapore",
+        "clue": "Known for its cleanliness and modern architecture."
+    },
+    {
+        "country": "Slovakia",
+        "clue": "Known for its picturesque towns and the Tatra Mountains."
+    },
+    {
+        "country": "Slovenia",
+        "clue": "Famous for its lakes and beautiful landscapes."
+    },
+    {
+        "country": "Solomon Islands",
+        "clue": "Known for its coral reefs and World War II history."
+    },
+    {
+        "country": "Somalia",
+        "clue": "Famous for its rich culture and long coastline."
+    },
+    {
+        "country": "South Africa",
+        "clue": "Known for its diverse landscapes and vibrant cities."
+    },
+    {
+        "country": "South Korea",
+        "clue": "Famous for its technology, pop culture, and historic sites."
+    },
+    {
+        "country": "South Sudan",
+        "clue": "The world's youngest nation, known for its diverse cultures."
+    },
+    {
+        "country": "Spain",
+        "clue": "Famous for its rich history, art, and cuisine."
+    },
+    {
+        "country": "Sri Lanka",
+        "clue": "Known for its beautiful beaches and rich biodiversity."
+    },
+    {
+        "country": "Sudan",
+        "clue": "Home to ancient pyramids and rich cultural heritage."
+    },
+    {
+        "country": "Suriname",
+        "clue": "Known for its rainforests and diverse cultures."
+    },
+    {
+        "country": "Sweden",
+        "clue": "Famous for its innovation, design, and natural beauty."
+    },
+    {
+        "country": "Switzerland",
+        "clue": "Known for its stunning Alps and banking system."
+    },
+    {
+        "country": "Syria",
+        "clue": "Rich in history, known for ancient cities like Palmyra."
+    },
+    {
+        "country": "Tajikistan",
+        "clue": "Famous for its mountainous terrain and rich history."
+    },
+    {
+        "country": "Tanzania",
+        "clue": "Home to Mount Kilimanjaro and the Serengeti National Park."
+    },
+    {
+        "country": "Thailand",
+        "clue": "Known for its stunning beaches and vibrant street food culture."
+    },
+    {
+        "country": "Timor-Leste",
+        "clue": "Known for its beautiful beaches and rich culture."
+    },
+    {
+        "country": "Togo",
+        "clue": "Known for its vibrant markets and diverse cultures."
+    },
+    {
+        "country": "Tonga",
+        "clue": "An archipelago known for its stunning beaches and culture."
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "clue": "Famous for its Carnival and rich cultural heritage."
+    },
+    {
+        "country": "Tunisia",
+        "clue": "Known for its ancient ruins and Mediterranean beaches."
+    },
+    {
+        "country": "Turkey",
+        "clue": "Famous for its rich history and cultural diversity."
+    },
+    {
+        "country": "Turkmenistan",
+        "clue": "Known for its vast deserts and unique architecture."
+    },
+    {
+        "country": "Tuvalu",
+        "clue": "A small island nation known for its coral reefs and low elevation."
+    },
+    {
+        "country": "Uganda",
+        "clue": "Known for its diverse wildlife and Lake Victoria."
+    },
+    {
+        "country": "Ukraine",
+        "clue": "Famous for its rich culture and history, including the city of Kyiv."
+    },
+    {
+        "country": "United Arab Emirates",
+        "clue": "Known for its modern architecture and luxury shopping."
+    },
+    {
+        "country": "United Kingdom",
+        "clue": "Famous for its history, monarchy, and cultural influence."
+    },
+    {
+        "country": "United States of America",
+        "clue": "Known for its diverse culture and landmarks like the Statue of Liberty."
+    },
+    {
+        "country": "Uruguay",
+        "clue": "Famous for its beaches and the capital city, Montevideo."
+    },
+    {
+        "country": "Uzbekistan",
+        "clue": "Known for its rich Silk Road history and stunning architecture."
+    },
+    {
+        "country": "Vanuatu",
+        "clue": "An archipelago known for its volcanic landscapes and culture."
+    },
+    {
+        "country": "Venezuela",
+        "clue": "Famous for its oil reserves and natural beauty."
+    },
+    {
+        "country": "Vietnam",
+        "clue": "Known for its rich history, culture, and stunning landscapes."
+    },
+    {
+        "country": "Yemen",
+        "clue": "Known for its ancient cities and rich cultural heritage."
+    },
+    {
+        "country": "Zambia",
+        "clue": "Famous for its wildlife and the Victoria Falls."
+    },
+    {
+        "country": "Zimbabwe",
+        "clue": "Known for its diverse wildlife and the Great Zimbabwe ruins."
+    }
+]
