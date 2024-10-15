@@ -1,0 +1,22 @@
+[
+    {"sport": "Soccer", "clue": "A game played between two teams of eleven players with a round ball."},
+    {"sport": "Basketball", "clue": "A sport played by two teams of five players where the objective is to shoot a ball through a hoop."},
+    {"sport": "Tennis", "clue": "A racket sport that can be played individually against a single opponent or between two teams of two players each."},
+    {"sport": "Baseball", "clue": "A bat-and-ball game played between two teams of nine players each on a field with a diamond-shaped circuit."},
+    {"sport": "Cricket", "clue": "A bat-and-ball game played between two teams of eleven players on a circular field."},
+    {"sport": "Rugby", "clue": "A contact team sport played with an oval ball that can be kicked, carried, or passed."},
+    {"sport": "Golf", "clue": "A game where players use clubs to hit balls into a series of holes on a course in as few strokes as possible."},
+    {"sport": "Swimming", "clue": "A water sport that involves moving through water by using the arms and legs."},
+    {"sport": "Volleyball", "clue": "A team sport in which two teams of six players are separated by a net."},
+    {"sport": "Hockey", "clue": "A game played on ice or a field, where players use sticks to hit a puck or ball into the opposing team's goal."},
+    {"sport": "Athletics", "clue": "A collection of sports events that include running, jumping, and throwing."},
+    {"sport": "Boxing", "clue": "A combat sport where two participants wear gloves and throw punches at each other."},
+    {"sport": "Cycling", "clue": "A sport that involves riding bicycles for recreation, competition, or transportation."},
+    {"sport": "Gymnastics", "clue": "A sport that involves exercises requiring balance, strength, flexibility, agility, coordination, and endurance."},
+    {"sport": "Wrestling", "clue": "A combat sport involving grappling techniques such as clinch fighting, throws, and takedowns."},
+    {"sport": "Skateboarding", "clue": "A sport that involves riding and performing tricks on a skateboard."},
+    {"sport": "Badminton", "clue": "A racquet sport played with a shuttlecock that is hit over a net."},
+    {"sport": "Lacrosse", "clue": "A team sport played with a small rubber ball and a long-handled stick called a crosse."},
+    {"sport": "Surfing", "clue": "A water sport where individuals ride on the face of moving waves using a surfboard."},
+    {"sport": "Fencing", "clue": "A sport involving sword fighting with three disciplines: foil, épée, and sabre."}
+]
